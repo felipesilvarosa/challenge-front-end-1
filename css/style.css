@@ -91,7 +91,7 @@ div p {
 	}
 
 	main {
-		margin: 10rem auto;
+		margin: 15rem auto 0 auto;
 		height: auto;
 		display: flex;
 		width: 80%;
